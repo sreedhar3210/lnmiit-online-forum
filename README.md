@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# lnmiit-online-forum
+The LNMIIT Online Forum is a dynamic virtual platform that facilitates seamless interaction, knowledge exchange, and collaboration among students, faculty, and alumni of the prestigious LNM Institute of Information Technology (LNMIIT).
+>>>>>>> a6d58d80c59a1e596df1f6daab57ceef6a0701c7
